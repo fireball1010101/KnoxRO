@@ -1,0 +1,30 @@
+#Title {
+margin-left: 550px;
+margin-top: -145px;
+font-family: Helvetica, Arial;
+color: grey;
+}
+
+#image {
+margin-left: 140px;
+margin-top: 30px;
+}
+
+#notice {
+margin-left: 550px;
+font-family: Helvetica, Arial;
+font-size: 18px;
+color: grey;
+}
+
+table, th, td {
+margin-top: 90px;
+margin-left: 350px;
+border: 1px solid black;
+border-collapse: collapse;
+font-family: Helvetica, Arial;
+color: grey;
+}
+th, td {
+padding: 30px;
+}
